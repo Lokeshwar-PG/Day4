@@ -1,3 +1,5 @@
+package com.homework;
+
 import java.util.Random;
 
 public class SnakesAndLadders {
